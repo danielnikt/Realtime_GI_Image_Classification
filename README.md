@@ -242,8 +242,7 @@ The TFT display shows the classification result of images captured by camera:
 <video src="/gastro_clip.mp4" width="600" height="400" controls></video>
 
 
-
-https://github.com/user-attachments/assets/c8378b0b-9c71-453b-8052-72923d18c509
+https://github.com/user-attachments/assets/42596310-7528-4b45-9939-611b818da3f4
 
 
 
