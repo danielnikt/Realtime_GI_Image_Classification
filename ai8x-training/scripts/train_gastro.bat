@@ -1,0 +1,1 @@
+python train.py --epochs 200 -b 64 --optimizer Adam --lr 0.001 --wd 0 --deterministic --compress policies\schedule-gastro.yaml --qat-policy policies\qat_policy_cd.yaml --model ai85cdnet --dataset gastro --confusion --param-hist --embedding --device MAX78000
